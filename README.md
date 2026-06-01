@@ -1,40 +1,24 @@
-# 👋 Hey! I'm Yaroslav
+# 👋 Hi, I'm Yaroslav
 
-**Backend Developer | Node.js | NestJS | TypeScript**
+### Backend Developer · Node.js · NestJS · TypeScript
+
+📍 Lviv, Ukraine &nbsp;|&nbsp; 🌱 Learning Advanced AWS, GraphQL & Microservices
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,javascript,aws,postgres,redis,docker,git,github,vscode,webstorm)](https://skillicons.dev)
-
-</div>
-
----
-
-## 💻 My Favorite IDE
-
-**WebStorm** - This is my favorite IDE for development! It provides excellent support for TypeScript, JavaScript, Node.js, and NestJS projects with powerful debugging, refactoring, and code analysis tools.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true&include_all_commits=true)
-
-### 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaroslavHunt&theme=dark&background=0d1117&stroke=c9cacc&ring=58a6ff&fire=58a6ff&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=58a6ff&sideLabels=58a6ff)
-
-### 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=dark-dimmed&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&area=true&hide_border=true)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -42,26 +26,38 @@
 
 ## 💼 About Me
 
-```
-🎯 Specialization: Backend Developer
-💻 Main Technologies: Node.js | NestJS | TypeScript
-🗄️ Databases: PostgreSQL | Redis
-☁️ Cloud: AWS
-🏗️ Favorite IDE: WebStorm
-📍 Location: Ukraine (Lviv)
-🌱 Currently Learning: Advanced AWS, GraphQL, Microservices
-⚡ Interests: Development, Documentation, Open Source
+```yaml
+role:          Backend Developer
+core_stack:    [ Node.js, NestJS, TypeScript ]
+databases:     [ PostgreSQL, Redis ]
+cloud:         AWS
+editor:        WebStorm
+location:      Lviv, Ukraine 🇺🇦
+learning:      [ Advanced AWS, GraphQL, Microservices ]
+interests:     [ Development, Documentation, Open Source ]
 ```
 
 ---
 
-## 📞 Get In Touch
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+> 💡 If the images above don't load, it's GitHub's image proxy (Camo) failing to reach the external stats service — it usually recovers after a refresh, not a problem with this README.
+
+---
+
+## 📫 Get In Touch
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslavohotskiy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslavhunt)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaroslavhunt)
 
 </div>
@@ -70,8 +66,6 @@
 
 <div align="center">
 
-### ⭐ If you like my projects, please star them!
-
-**Made with ❤️ by YaroslavHunt**
+⭐ **If you like my work, drop a star — it means a lot!**
 
 </div>

@@ -8,9 +8,15 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,javascript,aws,postgres,redis,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,javascript,aws,postgres,redis,docker,git,github,vscode,webstorm)](https://skillicons.dev)
 
 </div>
+
+---
+
+## 💻 My Favorite IDE
+
+**WebStorm** - This is my favorite IDE for development! It provides excellent support for TypeScript, JavaScript, Node.js, and NestJS projects with powerful debugging, refactoring, and code analysis tools.
 
 ---
 
@@ -41,6 +47,7 @@
 💻 Main Technologies: Node.js | NestJS | TypeScript
 🗄️ Databases: PostgreSQL | Redis
 ☁️ Cloud: AWS
+🏗️ Favorite IDE: WebStorm
 📍 Location: Ukraine (Lviv)
 🌱 Currently Learning: Advanced AWS, GraphQL, Microservices
 ⚡ Interests: Development, Documentation, Open Source

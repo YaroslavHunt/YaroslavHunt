@@ -14,7 +14,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
@@ -40,22 +39,27 @@ interests:     [ Development, Documentation, Open Source ]
 
 ---
 
-## 📌 What I Do
+## 📊 GitHub Statistics
 
-- 🧩 Build scalable backend services and REST APIs with **NestJS** & **TypeScript**
-- 🗄️ Design data layers with **PostgreSQL** and caching with **Redis**
-- ☁️ Deploy and run workloads on **AWS** using **Docker**
-- 📝 Care about clean architecture, documentation and maintainable code
+<div align="center">
 
----
-
-## 📊 GitHub Stats
-
-> Check out my pinned repositories below 👇 — that's where the real work lives.
+### 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YaroslavHunt)
 
-<sub>📎 Stats are served by an external service via GitHub's image proxy. If they don't render, that's a proxy/service hiccup, not a repo issue.</sub>
+### 🏆 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/YaroslavHunt)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YaroslavHunt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/YaroslavHunt)
+
+### 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=github-compact&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&area=true&hide_border=true)](https://github.com/YaroslavHunt)
+
+</div>
 
 ---
 

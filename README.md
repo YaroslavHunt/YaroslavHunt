@@ -24,17 +24,17 @@
 
 <div align="center">
 
-### 🔥 Commit Streak
-[![GitHub Streak](https://streak.demolab.com?user=YaroslavHunt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true&include_all_commits=true)
 
-### 📈 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true)
 
-### 📊 Overall Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true&include_all_commits=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaroslavHunt&theme=dark&background=0d1117&stroke=c9cacc&ring=58a6ff&fire=58a6ff&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=58a6ff&sideLabels=58a6ff)
 
-### 🎯 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=dark-dimmed&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&hide_border=true&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=dark-dimmed&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&area=true&hide_border=true)
 
 </div>
 
@@ -59,9 +59,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&cache_seconds=86400)](mailto:yaroslavohotskiy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaroslavohotskiy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslavhunt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaroslavhunt)
 
 </div>
 

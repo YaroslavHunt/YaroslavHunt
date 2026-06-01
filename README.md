@@ -25,16 +25,16 @@
 <div align="center">
 
 ### 🔥 Commit Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YaroslavHunt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YaroslavHunt&theme=dark)](https://git.io/streak-stats)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true)
 
 ### 📊 Overall Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9cacc&hide_border=true&include_all_commits=true)
 
 ### 🎯 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=dark-dimmed&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

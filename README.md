@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,mongodb,postgres,docker,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,typescript,javascript,aws,postgres,redis,docker,git,github,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -39,8 +39,10 @@
 ```
 🎯 Specialization: Backend Developer
 💻 Main Technologies: Node.js | NestJS | TypeScript
+🗄️ Databases: PostgreSQL | Redis
+☁️ Cloud: AWS
 📍 Location: Ukraine (Lviv)
-🌱 Currently Learning: GraphQL, Docker, AWS
+🌱 Currently Learning: Advanced AWS, GraphQL, Microservices
 ⚡ Interests: Development, Documentation, Open Source
 ```
 

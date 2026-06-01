@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
@@ -32,23 +33,29 @@ core_stack:    [ Node.js, NestJS, TypeScript ]
 databases:     [ PostgreSQL, Redis ]
 cloud:         AWS
 editor:        WebStorm
-location:      Lviv, Ukraine 🇺🇦
+location:      Lviv, Ukraine
 learning:      [ Advanced AWS, GraphQL, Microservices ]
 interests:     [ Development, Documentation, Open Source ]
 ```
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 What I Do
 
-<div align="center">
+- 🧩 Build scalable backend services and REST APIs with **NestJS** & **TypeScript**
+- 🗄️ Design data layers with **PostgreSQL** and caching with **Redis**
+- ☁️ Deploy and run workloads on **AWS** using **Docker**
+- 📝 Care about clean architecture, documentation and maintainable code
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true" />
+---
 
-</div>
+## 📊 GitHub Stats
 
-> 💡 If the images above don't load, it's GitHub's image proxy (Camo) failing to reach the external stats service — it usually recovers after a refresh, not a problem with this README.
+> Check out my pinned repositories below 👇 — that's where the real work lives.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YaroslavHunt)
+
+<sub>📎 Stats are served by an external service via GitHub's image proxy. If they don't render, that's a proxy/service hiccup, not a repo issue.</sub>
 
 ---
 

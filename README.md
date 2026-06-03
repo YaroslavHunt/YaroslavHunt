@@ -43,14 +43,6 @@ interests:     [ Development, Documentation, Open Source ]
 
 <div align="center">
 
-### 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-### 🏆 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
 ### 🔥 Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YaroslavHunt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://streak-stats.demolab.com/?user=YaroslavHunt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)

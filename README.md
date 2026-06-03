@@ -45,19 +45,19 @@ interests:     [ Development, Documentation, Open Source ]
 
 ### 📈 GitHub Stats
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-%40YaroslavHunt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=YaroslavHunt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ### 🏆 Most Used Languages
 
-[![Top Languages](https://img.shields.io/badge/Top%20Languages-See%20on%20Profile-2b2f33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavHunt&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ### 🔥 Contribution Streak
 
-[![Contributions](https://img.shields.io/badge/Contributions-View%20on%20GitHub-2b2f33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YaroslavHunt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://streak-stats.demolab.com/?user=YaroslavHunt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ### 📊 Activity Graph
 
-[![Activity Graph](https://img.shields.io/badge/Activity-Open%20Profile-2b2f33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YaroslavHunt)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=github-compact&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=YaroslavHunt&theme=github-compact&bg_color=0d1117&color=c9cacc&line=58a6ff&point=c9cacc&area=true&hide_border=true)
 
 </div>
 
